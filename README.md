@@ -1,6 +1,6 @@
 pw-spanish
 ==========
 
-Spanish translation files for Processwire 2.4.1. 
+Spanish translation files for Processwire 2.4.4.
 
-<a href="http://processwire.com/talk/topic/1003-spanish-es-es/">Started by me</a> in February 2012 for 2.3, <a href="https://github.com/biojazzard/pw_spanish">updated by biojazzard</a> in February 2013 for the initial release of 2.4. This is the first, almost complete edition for the stable version of 2.4.
+<a href="http://processwire.com/talk/topic/1003-spanish-es-es/">Started by me</a> in February 2012 for 2.3, <a href="https://github.com/biojazzard/pw_spanish">updated by biojazzard</a> in February 2013 for the initial release of 2.4. I will try to keep it updated following the latest dev version.
