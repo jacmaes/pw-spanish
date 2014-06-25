@@ -52,6 +52,12 @@
         },
         "63c7dee42e04e2757472031aa7164d81": {
             "text": "\u00bfOmitir los atributos ancho y altura de las im\u00e1genes?"
+        },
+        "fd8d17a2ebc3643f78fc97b8e5c3a7f3": {
+            "text": "Introduce los nombres de cualquier campo de imagen (separados por un espacio) que no quieres activar con este m\u00f3dulo."
+        },
+        "36171be725b020fde0f22b3ceb047280": {
+            "text": "Nombres de los campos que vamos a ignorar"
         }
     }
 }

@@ -1,0 +1,54 @@
+{
+    "file": "site\/modules\/FieldtypeMapMarker\/InputfieldMapMarker.module",
+    "textdomain": "site--modules--fieldtypemapmarker--inputfieldmapmarker-module",
+    "translations": {
+        "dd7bf230fde8d4836917806aff6a6b27": {
+            "text": "Direcci\u00f3n"
+        },
+        "3b0eb7469ba9c95f3a05c4cef1f6aac4": {
+            "text": "Latitud"
+        },
+        "9b4dabc50f0b8ccba1c8981831abdad8": {
+            "text": "Longitud"
+        },
+        "b333c623973eb4e9a60f40b2837a756e": {
+            "text": "\u00bfGeoreferenciar?"
+        },
+        "3f84f2b44d5dfbb94a4ab73cafd77fdd": {
+            "text": "Direcci\u00f3n por defecto"
+        },
+        "d7189c434a4672bc4be1b077b527d40d": {
+            "text": "Latitud por defecto"
+        },
+        "7efdb53f0b5ed6031c52f4e72f52348a": {
+            "text": "Longitud por defecto"
+        },
+        "f71c91b7da2496c2a02a5f18d0e985a6": {
+            "text": "Tipo de mapa por defecto"
+        },
+        "fb1b6e23a3767d2a31ef7899e6dd3f1e": {
+            "text": "H\u00edbrido"
+        },
+        "40be43aca96bb198df1d735293dc50b9": {
+            "text": "Mapa de carreteras"
+        },
+        "c2b5e73361a4bf9d26a73413d0abee5e": {
+            "text": "Sat\u00e9lite"
+        },
+        "4001defc085d5daf907c1a95fa0c38bd": {
+            "text": "Altura del mapa en pixeles"
+        },
+        "30c4513b55190a2875d6180b79798d20": {
+            "text": "Zoom por defecto"
+        },
+        "87f83506dee160df49b8d3ca189246af": {
+            "text": "Notas sobre la API"
+        },
+        "4252b72e6ebcd4d4b4c2e46a786f03d2": {
+            "text": "Zoom"
+        },
+        "80b830cf2f8e4d13500b0516083f29d8": {
+            "text": "Se georeferenciar\u00e1 para convertirse en el punto de partida del mapa."
+        }
+    }
+}

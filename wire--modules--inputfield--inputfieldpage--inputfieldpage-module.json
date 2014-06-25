@@ -1,0 +1,30 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldPage\/InputfieldPage.module",
+    "textdomain": "wire--modules--inputfield--inputfieldpage--inputfieldpage-module",
+    "translations": {
+        "4349c31cba02549f2043d69b9eb0d66e": {
+            "text": "(sin publicar)"
+        },
+        "49e5878c7a1901b0a9baae9e0c774150": {
+            "text": "A\u00f1adir"
+        },
+        "f0670991d41b78617ca7810b7ce334b9": {
+            "text": "La p\u00e1gina %s ha sido creada"
+        },
+        "29b43e0c70cb336d03f04f3f06a8789d": {
+            "text": "Error al crear la p\u00e1gina %s"
+        },
+        "81eeab9506186e2dca8faefa78d54067": {
+            "text": "Ejemplo"
+        },
+        "6f8d1b93e4aad53511c85e29ed36b3d0": {
+            "text": "(por defecto)"
+        },
+        "b82b34c94588fc88ca4a6b18f5e18aef": {
+            "text": "Introduce el title del \u00edtem que quieres a\u00f1adir. Lo podr\u00e1s seleccionar despu\u00e9s de guardar la p\u00e1gina."
+        },
+        "e3cada644043c81e6ff21250f2e53f3a": {
+            "text": "Las nuevas p\u00e1ginas se a\u00f1adir\u00e1n a %s"
+        }
+    }
+}

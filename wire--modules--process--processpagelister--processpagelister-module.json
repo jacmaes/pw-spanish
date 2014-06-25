@@ -1,0 +1,99 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageLister\/ProcessPageLister.module",
+    "textdomain": "wire--modules--process--processpagelister--processpagelister-module",
+    "translations": {
+        "49ee3087348e8d44e1feda1917443987": {
+            "text": "Nombre"
+        },
+        "0eceeb45861f9585dd7a97a3e36f85c6": {
+            "text": "Creado"
+        },
+        "35e0c8c0b180c95d4e122e55ed62cc64": {
+            "text": "Modificado"
+        },
+        "a5e3d3ad4b54f37c48d9391d5ab35eed": {
+            "text": "Modificado por"
+        },
+        "7b1255f8fdd0cb8751baee55621164e1": {
+            "text": "Creado por"
+        },
+        "278c491bdd8a53618c149c4ac790da34": {
+            "text": "Plantilla"
+        },
+        "ec53a8c4f07baed5d8825072c89799be": {
+            "text": "Estatus"
+        },
+        "30269022e9d8f51beaabb52e5d0de2b7": {
+            "text": "P\u00e1gina de nivel superior"
+        },
+        "7acdf85c69cc3c5305456a293524386e": {
+            "text": "Escondido"
+        },
+        "0774e163cd7df482edd2abd498189f8b": {
+            "text": "Sin publicar"
+        },
+        "d0f2e5376298c880665077b565ffd7dd": {
+            "text": "Cerrado"
+        },
+        "a7e253cd8dd95da3e20daf45519a8dc2": {
+            "text": "Papelera"
+        },
+        "f3f43e30c8c7d78c6ac0173515e57a00": {
+            "text": "Filtros"
+        },
+        "860515850b6c6beae4343c42ecf3060f": {
+            "text": "A\u00f1adir filtro"
+        },
+        "d050438ea9af830fff49ddbbad2218b0": {
+            "text": "Columnas por defecto"
+        },
+        "e4ef81cce7e4e10033ebb10962dfdd5e": {
+            "text": "Vac\u00edo"
+        },
+        "de95b43bceeb4b998aed4aed5cef1ae7": {
+            "text": "editar"
+        },
+        "1bda80f2be4d3658e0baa43fbe7ae8c1": {
+            "text": "ver"
+        },
+        "22af645d1859cb5ca6da0c484f1f37ea": {
+            "text": "nuevo"
+        },
+        "3b8769d187c6c3306c50729bc43a9903": {
+            "text": "Sin resultados"
+        },
+        "de9ced9bf5e9829de4a93ad8c9d7a170": {
+            "text": "A\u00f1adir"
+        },
+        "590345301b23eb45c176da0fc139b191": {
+            "text": "Columnas"
+        },
+        "57c17efa48d527f45393fdbf800500a0": {
+            "text": "Marcador desconocido o marcador ya no activo"
+        },
+        "0e305a04b5eb6dc8bf502625710a74d3": {
+            "text": "Los cambios que realizas aqu\u00ed se reflejar\u00e1n inmediatamente en los resultados debajo."
+        },
+        "60170ad1f8db03dc180ee0ced484b19f": {
+            "text": "Elige las columnas que se ver\u00e1n en la tabla de los resultados"
+        },
+        "0c8ee3eeadc96eeeeb24e2a6dc9d4a5e": {
+            "text": "Elige uno o m\u00e1s filtros a continuaci\u00f3n"
+        },
+        "7b0fb34fcab89b5e58429e5e917b98bb": {
+            "text": "Todos los ajustes se han restablicado"
+        },
+        "ef7de3f485174ff47f061ad27d83d0ee": {
+            "text": "seleccionado"
+        },
+        "97bff91e1e9c0a1d8a8cc9a0c1ae88fc": {
+            "text": "El usuario puede cambiar, opcionalmente, las columnas que se muestran, y \u00e9stas se convertir\u00e1n en las columnas que se muestran por defecto."
+        },
+        "6d0999f49ddabda93eae8276595abe62": {
+            "text": "Selecciona y ordena las columnas que se mostrar\u00e1n en la tabla."
+        },
+        "a5158728109d8e67ae31b7b02bdc8b86": {
+            "text": "De %1$d a %2$d de un total de %3$d"
+        }
+    }
+}

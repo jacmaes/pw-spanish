@@ -193,6 +193,12 @@
         },
         "30b78fb546fe9686f84a740a5e5524a3": {
             "text": "La URL de la p\u00e1gina se ha cambiado a \"% s\" porque el nombre solicitado ya estaba tomado."
+        },
+        "70d9be9b139893aa6c69b5e77e614311": {
+            "text": "Confirmar"
+        },
+        "fcdd8c7fe4647ee6186ea45dd69d425d": {
+            "text": "Las p\u00e1ginas de nivel inferior est\u00e1n ordenadas por \"%s\" seg\u00fan el ajuste definido en la plantilla."
         }
     }
 }

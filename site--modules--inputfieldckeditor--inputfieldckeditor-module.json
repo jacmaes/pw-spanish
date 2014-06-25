@@ -1,0 +1,42 @@
+{
+    "file": "site\/modules\/InputfieldCKEditor\/InputfieldCKEditor.module",
+    "textdomain": "site--modules--inputfieldckeditor--inputfieldckeditor-module",
+    "translations": {
+        "ea4788705e6873b424c65e91c2846b19": {
+            "text": "Anular"
+        },
+        "259738ca35a086ce9d269623e5ab5d37": {
+            "text": "Insertar enlace"
+        },
+        "446a6000511ab6fb0711400379a62a04": {
+            "text": "Seleccionar la imagen"
+        },
+        "03274f27f51f0c39e06e0e6cd07e01a9": {
+            "text": "Editar una imagen"
+        },
+        "586dfebdb944d7af7c4720be84d7fa50": {
+            "text": "Guardando imagen"
+        },
+        "941c891be23b6a837de1d46c30efad2a": {
+            "text": "Inserta esta imagen"
+        },
+        "a616a1ef7aa1ee32d7d31c742923a202": {
+            "text": "Selecciona otra imagen"
+        },
+        "93cba07454f06a4a960172bbd6e2a435": {
+            "text": "S\u00ed"
+        },
+        "2ae61d29b7247ef3679ced4aa729fb27": {
+            "text": "Configuraci\u00f3n de CKEditor"
+        },
+        "29c6f6d4517d673b2003e604b4efb687": {
+            "text": "Barra de herramientas de CKEditor"
+        },
+        "e78b7a28614a2ac65e38f5c459fcc8e6": {
+            "text": "Ejemplo: enlace, imagen"
+        },
+        "68835c69c5818fea532f3ad00a91be00": {
+            "text": "en"
+        }
+    }
+}
