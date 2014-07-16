@@ -49,6 +49,9 @@
         },
         "9c0e34e99b5acfb622d682dabefa5578": {
             "text": "Las descripciones aparecen en varios idiomas por defecto si tienes instalado el soporte para idiomas (Language Support). Si deseas desactivar las descripciones multiling\u00fce, marca esta casilla."
+        },
+        "004a10c5de4a2eea5fc8f15e97a8030c": {
+            "text": "No existen extensiones de archivos para este campo."
         }
     }
 }

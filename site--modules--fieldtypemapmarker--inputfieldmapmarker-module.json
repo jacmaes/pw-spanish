@@ -44,11 +44,23 @@
         "87f83506dee160df49b8d3ca189246af": {
             "text": "Notas sobre la API"
         },
-        "4252b72e6ebcd4d4b4c2e46a786f03d2": {
-            "text": "Zoom"
-        },
         "80b830cf2f8e4d13500b0516083f29d8": {
             "text": "Se georeferenciar\u00e1 para convertirse en el punto de partida del mapa."
+        },
+        "c67053bb43cb1d18d7d2076e5bd79268": {
+            "text": "Introduce un valor entre 1 y 23. El nivel m\u00e1s alto de zoom es t\u00edpicamente entre 19 y 23, dependiendo de la ubicaci\u00f3n que se ampliar\u00e1 y la cantidad de datos que Google tiene para la ubicaci\u00f3n."
+        },
+        "4000a84d8cfcaa12226370c3ede2941b": {
+            "text": "Puedes acceder a los valores individuales de este campo usando lo siguiente desde tus plantillas:"
+        },
+        "4252b72e6ebcd4d4b4c2e46a786f03d2": {
+            "text": "Ampliar"
+        },
+        "df302916b5705665e09390b09baf54e2": {
+            "text": "Al modificar la direcci\u00f3n por defecto, por favor deja los campos de latitud y longitud en blanco, lo que forzar\u00e1 la codificaci\u00f3n geogr\u00e1fica de tu nueva direcci\u00f3n."
+        },
+        "88e471a8f43ac47ccbd14da0f8378a91": {
+            "text": "Se ha georeferenciado tu direcci\u00f3n por defecto. Por favor, pulsa el bot\u00f3n \"guardar\" una vez m\u00e1s para confirmar el nuevo valor predeterminado de latitud y longitud."
         }
     }
 }

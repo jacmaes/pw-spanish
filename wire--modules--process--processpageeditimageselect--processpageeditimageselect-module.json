@@ -58,6 +58,9 @@
         },
         "36171be725b020fde0f22b3ceb047280": {
             "text": "Nombres de los campos que vamos a ignorar"
+        },
+        "5a8f9d5840811602e6806392ffef0523": {
+            "text": "Por defecto, este m\u00f3dulo incluir\u00e1 atributos de anchura y altura en la etiqueta <img>. Si est\u00e1s utilizando im\u00e1genes \"responsive\", es posible que desees desactivar este comportamiento. Marca la casilla para desactivar los atributos de anchura y altura."
         }
     }
 }

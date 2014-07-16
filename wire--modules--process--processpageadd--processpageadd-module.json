@@ -1,1 +1,51 @@
-{"file":"wire\/modules\/Process\/ProcessPageAdd\/ProcessPageAdd.module","textdomain":"wire--modules--process--processpageadd--processpageadd-module","translations":{"278c491bdd8a53618c149c4ac790da34":{"text":"Plantilla"},"c9cc8cce247e49bae79f15173ce97354":{"text":"Guardar"},"de9ced9bf5e9829de4a93ad8c9d7a170":{"text":"A\u00f1adir"},"abc32b2bc5cd1b61b5d3738f09405c0d":{"text":"Nos has rellenado un campo obligatorio: nombre"},"9e31eadc87a42dd9b75f4b4d141c192b":{"text":"El nombre seleccionado ya est\u00e1 en uso. Por favor, selecciona otro."},"9c99ecab6aa8967c077e01a0b3f51668":{"text":"P\u00e1gina creada %1$s con la plantilla: %2$s"},"e1622ba9f41f5b695bddc69e3ceaa204":{"text":"A\u00f1adir una nueva p\u00e1gina"},"c4f4f1adddc771c086745ca04050d415":{"text":"A\u00f1adir p\u00e1gina"},"a3e80c9c5e2dfb9f58712a83e2006a5e":{"text":"\u00bfD\u00f3nde quieres a\u00f1adir %s?"},"100e1438e523c6553ac21fd872262d56":{"text":"Por favor, selecciona la p\u00e1gina de nivel superior %s a continuaci\u00f3n:"},"d337f7f6b3b52602b84f206e80fc6a85":{"text":"No existe una plantilla para poder a\u00f1adir p\u00e1ginas aqu\u00ed"},"76effbf5625101a8e29d5720e986ee6a":{"text":"La plantilla \"%s\" no est\u00e1 permitida aqu\u00ed"},"41553b358b6daba19bf079d5ad3eefb1":{"text":"P\u00e1gina provisional sin usar"},"bb8bbda58833ce19eef6193e1918e8cf":{"text":"Desactiva la publicaci\u00f3n autom\u00e1tica"}}}
+{
+    "file": "wire\/modules\/Process\/ProcessPageAdd\/ProcessPageAdd.module",
+    "textdomain": "wire--modules--process--processpageadd--processpageadd-module",
+    "translations": {
+        "278c491bdd8a53618c149c4ac790da34": {
+            "text": "Plantilla"
+        },
+        "c9cc8cce247e49bae79f15173ce97354": {
+            "text": "Guardar"
+        },
+        "de9ced9bf5e9829de4a93ad8c9d7a170": {
+            "text": "A\u00f1adir"
+        },
+        "abc32b2bc5cd1b61b5d3738f09405c0d": {
+            "text": "Nos has rellenado un campo obligatorio: nombre"
+        },
+        "9e31eadc87a42dd9b75f4b4d141c192b": {
+            "text": "El nombre seleccionado ya est\u00e1 en uso. Por favor, selecciona otro."
+        },
+        "9c99ecab6aa8967c077e01a0b3f51668": {
+            "text": "P\u00e1gina creada %1$s con la plantilla: %2$s"
+        },
+        "e1622ba9f41f5b695bddc69e3ceaa204": {
+            "text": "A\u00f1adir una nueva p\u00e1gina"
+        },
+        "c4f4f1adddc771c086745ca04050d415": {
+            "text": "A\u00f1adir p\u00e1gina"
+        },
+        "a3e80c9c5e2dfb9f58712a83e2006a5e": {
+            "text": "\u00bfD\u00f3nde quieres a\u00f1adir %s?"
+        },
+        "100e1438e523c6553ac21fd872262d56": {
+            "text": "Por favor, selecciona la p\u00e1gina de nivel superior %s a continuaci\u00f3n:"
+        },
+        "d337f7f6b3b52602b84f206e80fc6a85": {
+            "text": "No existe una plantilla para poder a\u00f1adir p\u00e1ginas aqu\u00ed"
+        },
+        "76effbf5625101a8e29d5720e986ee6a": {
+            "text": "La plantilla \"%s\" no est\u00e1 permitida aqu\u00ed"
+        },
+        "41553b358b6daba19bf079d5ad3eefb1": {
+            "text": "P\u00e1gina provisional sin usar"
+        },
+        "bb8bbda58833ce19eef6193e1918e8cf": {
+            "text": "Desactiva la publicaci\u00f3n autom\u00e1tica"
+        },
+        "13148993e6c4399880e879c88a664347": {
+            "text": "Por defecto, las p\u00e1ginas que s\u00f3lo tienen campos globales (el m\u00e1s com\u00fan es el campo \"t\u00edtulo\") se publicar\u00e1n de forma autom\u00e1tica al crearlas, sin pasar por el estado \"sin publicar\" habitual. En general, esto permite ahorrar tiempo, por lo que es una opci\u00f3n deseable. Pero puedes cancelar este comportamiento marcando la casilla a continuaci\u00f3n."
+        }
+    }
+}

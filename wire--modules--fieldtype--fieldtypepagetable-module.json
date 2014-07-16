@@ -1,7 +1,12 @@
 {
     "file": "wire\/modules\/Fieldtype\/FieldtypePageTable.module",
     "textdomain": "wire--modules--fieldtype--fieldtypepagetable-module",
-    "translations": [
-
-    ]
+    "translations": {
+        "56d29e2358c489ca2ba085412d22b543": {
+            "text": "Selecciona una o m\u00e1s plantillas para los \u00edtems"
+        },
+        "280bdbf9e514764e2b558c5a45b03ba3": {
+            "text": "Selecciona una p\u00e1gina de nivel superior para los \u00edtems"
+        }
+    }
 }

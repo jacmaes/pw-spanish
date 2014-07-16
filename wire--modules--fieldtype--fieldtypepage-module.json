@@ -1,7 +1,24 @@
 {
     "file": "wire\/modules\/Fieldtype\/FieldtypePage.module",
     "textdomain": "wire--modules--fieldtype--fieldtypepage-module",
-    "translations": [
-
-    ]
+    "translations": {
+        "7b438db8547ac1c9ab6c7ba6cb1532db": {
+            "text": "P\u00e1ginas m\u00faltiples (PageArray)"
+        },
+        "7d5f7f76b51ac880e91da28dbc52df35": {
+            "text": "\u00bfPermitir p\u00e1ginas sin publicar?"
+        },
+        "94a53712b9a34f922a776fc5aa68d31f": {
+            "text": "P\u00e1gina \u00fanica (Page) o p\u00e1gina vac\u00eda (NullPage) si ninguna est\u00e1 seleccionada"
+        },
+        "081c14de091c8761b82f930fd59c8f16": {
+            "text": "Buscando y limpiando..."
+        },
+        "2d6565614947b2a6daba1a06515124da": {
+            "text": "Buscar y limpiar las referencias a p\u00e1ginas hu\u00e9rfanas"
+        },
+        "35a326c72a6584f3c7d70109b5cd45f1": {
+            "text": "Advertencia: para m\u00e1s seguridad, deber\u00edas hacer una copia de seguridad de tu base de datos antes de ejecutar este proceso."
+        }
+    }
 }

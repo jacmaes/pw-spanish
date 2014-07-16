@@ -35,8 +35,20 @@
         "e78b7a28614a2ac65e38f5c459fcc8e6": {
             "text": "Ejemplo: enlace, imagen"
         },
-        "68835c69c5818fea532f3ad00a91be00": {
-            "text": "en"
+        "a2a62a977b1825230f76d3ba2a6bf3df": {
+            "text": "El modo \"inline\" de CKEditor requiere el m\u00f3dulo MarkupHTMLPurifier. Usa el modo normal en su lugar."
+        },
+        "b71ae00b212e1c450146b7263bb791bb": {
+            "text": "\u00bfUsar ACF?"
+        },
+        "086f4ea637a29573ed5e10e106040ab5": {
+            "text": "\u00bfUdar HTML Purifier?"
+        },
+        "7a6472fdd6090236270ada56951bb4ad": {
+            "text": "Plugins extras"
+        },
+        "973ed59e27ee4824370eaf8150cbeec9": {
+            "text": "Eliminar plugins"
         }
     }
 }

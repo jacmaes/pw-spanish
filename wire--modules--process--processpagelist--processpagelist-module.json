@@ -61,6 +61,9 @@
         },
         "8593fb74b02478b2734e442f86507d7b": {
             "text": "Opcionalmente, puedes sustituir este valor en cada plantilla individualmente, en los ajustes avanzados."
+        },
+        "ae9945c00ae261445f0277fbae516179": {
+            "text": "Cada p\u00e1gina de un PageList se identifica por una etiqueta, normalmente un t\u00edtulo o titular (\"headline\"). Puedes especificar qu\u00e9 campo se debe utilizar aqu\u00ed. Para especificar varios campos, separa cada nombre de campo con un espacio. Si el campo corresponde a un objeto (como otra p\u00e1gina),  entonces especifica la propiedad con un punto, es decir \"otrapagina.titulo\". Ten en cuenta que si el campo que especificas tiene un valor en blanco, ProcessWire utilizar\u00e1 el campo \"name\" de la p\u00e1gina."
         }
     }
 }
